@@ -1,4 +1,4 @@
-package 함수10809번;
+package 문자열10809번;
 
 import java.io.*;
 
